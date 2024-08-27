@@ -1,0 +1,69 @@
+#title {
+    background-color: #344E41;
+    color: #DAD7CD;
+    text-align: center;
+    padding: 30px;
+    margin: 0px;
+}
+
+#cooltext {
+    color: #588157;
+    text-align: center;
+    padding: 30px;
+    margin-top: 0px;
+    font-style: italic;
+}
+
+body {
+    background-color: #DAD7CD;
+}
+
+#buttons {
+   padding-top: 30px;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+button {
+    padding: 10%;
+    border-radius: 4%;
+}
+
+/* #rock {
+    background-image: url(images/rock.png);
+    height: 3%;
+    width: 3%;
+}
+*/
+.icon {
+    height: 50px;
+    width: auto;
+}
+
+#announcement {
+    padding-top: 30px;
+    color: #3A5A40;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+#score{
+    padding: 50px;
+    font-size: 50px;
+    color: #344E41;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+#winner{
+    font-size: 30px;
+    text-align: center;
+}
+
+#baby {
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
