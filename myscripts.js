@@ -6,12 +6,12 @@ function getComputerChoice () {
     return "paper";
 }
 
-function getHumanChoice () {
+/*function getHumanChoice () {
     let choice = prompt("What do you pick?", "rock, paper, scissors");
     choice = choice.toLowerCase();
     if (choice === "rock" || choice === "scissors" || choice === "paper") {return choice};
     return getHumanChoice ();
-}
+}*/
 
 function playRound(humanChoice) {
     console.log("");
